@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/gopkg.in-yaml.v2.svg?branch=master)](https://travis-ci.org/gopkg.in-yaml.v2)
-[![Coverage](https://codecov.io/gh/gopkg.in-yaml.v2/branch/master/graph/badge.svg)](https://codecov.io/gh/gopkg.in-yaml.v2)
+[![Build Status](https://travis-ci.org/golang-interfaces/gopkg.in-yaml.v2.svg?branch=master)](https://travis-ci.org/golang-interfaces/gopkg.in-yaml.v2)
+[![Coverage](https://codecov.io/gh/golang-interfaces/gopkg.in-yaml.v2/branch/master/graph/badge.svg)](https://codecov.io/gh/golang-interfaces/gopkg.in-yaml.v2)
 
 # problem statement
 
